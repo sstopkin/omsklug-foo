@@ -9,6 +9,7 @@
 
 body, input, select, textarea {
     color: white;
+    font-family: 'Tahoma', 'Ubuntu Sans', 'Droid Sans', sans-serif;
     font-size: 15pt;
     font-weight: 300 !important;
     letter-spacing: -0.025em;
